@@ -5,7 +5,7 @@ A small github page i made for another project.
 ### About
 
 I have made many _unsuccessful_ games over my 4 years of nooby indie deving.
-Some of which are achived neatly on [my itch.io](https://grilledgrilled.itch.io/).
+Some of which are archived neatly on [my itch.io](https://grilledgrilled.itch.io/).
 
 ```markdown
 Can you tell that:
@@ -14,7 +14,7 @@ Can you tell that:
 - is using
 
 1. a prebuild theme
-2. and Jekyll
+2. and using Jekyll
 ```
 
 For more details on the stuffs i make heres my [Github](https://github.com/GrilledJamu/).
